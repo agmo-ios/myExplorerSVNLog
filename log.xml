@@ -1,0 +1,2679 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<log>
+<logentry
+   revision="34290">
+<author>ak</author>
+<date>2018-07-09T09:29:10.029564Z</date>
+<msg>-- PETRONAS --
+1. Updated</msg>
+</logentry>
+<logentry
+   revision="33533">
+<author>boonkae</author>
+<date>2018-05-07T02:50:30.742215Z</date>
+<msg>1. - added done button to dismiss keyboard
+2. - display a correct size image for lanscape picture
+3. - added remove photo button</msg>
+</logentry>
+<logentry
+   revision="33417">
+<author>ak</author>
+<date>2018-04-23T17:13:52.577345Z</date>
+<msg>-- Customer - PETRONAS --
+1. Bug fixing:
+#18148
+#17582
+#17302</msg>
+</logentry>
+<logentry
+   revision="33304">
+<author>ak</author>
+<date>2018-04-16T09:00:04.484111Z</date>
+<msg>-- myExplorer --
+1. Updated to PETRONAS ID
+2. Clear pasteboard after parsing</msg>
+</logentry>
+<logentry
+   revision="33297">
+<author>boonkae</author>
+<date>2018-04-16T03:59:01.432532Z</date>
+<msg>- added for getting existing user accesstoken</msg>
+</logentry>
+<logentry
+   revision="33296">
+<author>boonkae</author>
+<date>2018-04-16T03:58:42.101771Z</date>
+<msg>- added the splashscreen</msg>
+</logentry>
+<logentry
+   revision="33243">
+<author>boonkae</author>
+<date>2018-04-11T05:06:33.833475Z</date>
+<msg>- change text color if got text</msg>
+</logentry>
+<logentry
+   revision="33238">
+<author>boonkae</author>
+<date>2018-04-11T02:46:51.656996Z</date>
+<msg></msg>
+</logentry>
+<logentry
+   revision="33237">
+<author>boonkae</author>
+<date>2018-04-11T02:43:35.651181Z</date>
+<msg>- change logic of checking uipasteboard</msg>
+</logentry>
+<logentry
+   revision="33235">
+<author>boonkae</author>
+<date>2018-04-11T01:16:25.485033Z</date>
+<msg>- added Share Extensions</msg>
+</logentry>
+<logentry
+   revision="32996">
+<author>peikeng</author>
+<date>2018-03-29T08:39:33.835852Z</date>
+<msg>-- MyExplorer - Coding --
+#17832 Subscribe/Unsubscribe channel/topic takes a while to load and no loading icon
+#17349 The number of Subscribers of some channels shows incorrectly
+#17292 Unsubscribed channels/topics still show even though the list is refreshed
+#17281 Search result shows incorrectly
+#17780 Missing "Create Post" in my channels in ipad 
+#17964 No need to show alert view for these APIs when it returns error</msg>
+</logentry>
+<logentry
+   revision="32904">
+<author>peikeng</author>
+<date>2018-03-20T04:02:58.421919Z</date>
+<msg>-- MyExplorer - Coding --
+#17539 Blank account is displayed when tagging invalid account
+#17414 Show Back button to back to previous screen when in opening file screen
+#17349 The number of Subscribers of some channels shows incorrectly
+#17340 myExplorer is crashed on ipad when clicking on any channels/topics in By Channels/By Topics tab in Feed
+#17267 Should show loading icon when searching channels/posts
+#17281 Search result shows incorrectly
+#17303 Tutorial card is displayed when first login and select an open channel to subscribe
+#17302 User search's loading icon during tagging
+#17308 Favourite/Like post takes a while to load and no loading icon
+#17292 Unsubscribed channels/topics still show even though the list is refreshed
+#17593 myExplorer app is crashed when trying to refresh "By Channels" list
+#17312 Total view and Published Date of some posts show incorrectly
+#17415 1 file is downloaded when downloading multiple files
+#17642 List of post of its channel is appeared in About tab when user try to send/cancel email to channel's email
+#17624 Old posts are displayed on top
+#17630 Content in description is move up and down and then disappear when tagging multiple account
+#17654 Show error message and Search in domain when no record found
+#17650 Missing service desk Phone number; Email; Privacy Policy and Terms &amp; Conditions on Ipad</msg>
+</logentry>
+<logentry
+   revision="32794">
+<author>peikeng</author>
+<date>2018-03-07T09:07:35.151601Z</date>
+<msg>-- MyExplorer - Coding --
+- #17272 User tagging failed if tag is the last text in post
+- #17265 Keep only "PETRONAS" &amp; "KLCC" in "Search in [domain]" list
+- #5617 When creating a post, to upload image in the post, the gallery goes to the oldest image and not the latest</msg>
+</logentry>
+<logentry
+   revision="31919">
+<author>ak</author>
+<date>2018-01-02T07:28:03.864737Z</date>
+<msg>-- myExplorer --
+1. Replace with latest CarbonKit library</msg>
+</logentry>
+<logentry
+   revision="31918">
+<author>ak</author>
+<date>2018-01-02T07:26:30.920607Z</date>
+<msg>-- myExplorer --
+1. Fixed #5617</msg>
+</logentry>
+<logentry
+   revision="31825">
+<author>ak</author>
+<date>2017-12-26T03:19:50.471099Z</date>
+<msg>-- myExplorer --
+1. Minor update</msg>
+</logentry>
+<logentry
+   revision="29728">
+<author>ak</author>
+<date>2017-08-10T07:31:58.190795Z</date>
+<msg>-- PETRONAS - myExplorer --
+1. Fixed 3 Redmine tickets</msg>
+</logentry>
+<logentry
+   revision="29625">
+<author>ak</author>
+<date>2017-08-01T09:01:13.881020Z</date>
+<msg>-- myExplorer --
+1. Support share slug url</msg>
+</logentry>
+<logentry
+   revision="29623">
+<author>ak</author>
+<date>2017-08-01T08:59:31.501819Z</date>
+<msg>-- myExplorer --
+1. Support share slug url</msg>
+</logentry>
+<logentry
+   revision="29587">
+<author>ak</author>
+<date>2017-07-29T05:51:49.057005Z</date>
+<msg>-- myExplorer --
+1. Use non-intrusive loading indicator</msg>
+</logentry>
+<logentry
+   revision="29586">
+<author>ak</author>
+<date>2017-07-29T05:08:48.609340Z</date>
+<msg>-- myExplorer --
+1. Fix bug where it won't auto refresh</msg>
+</logentry>
+<logentry
+   revision="29541">
+<author>ak</author>
+<date>2017-07-23T15:47:29.895592Z</date>
+<msg>-- PETRONAS - myExplore --
+1. Fixed tagging issue:
+- Space to cancel tagging
+- Tag someone, delete, then tag mode not cancelled</msg>
+</logentry>
+<logentry
+   revision="29512">
+<author>ak</author>
+<date>2017-07-18T11:03:54.242676Z</date>
+<msg>-- myExplorer -- 
+1. Fixed cache issue</msg>
+</logentry>
+<logentry
+   revision="29509">
+<author>ak</author>
+<date>2017-07-18T09:15:29.747424Z</date>
+<msg>-- myExplorer -- 
+1. Support auto load more for discover channel/topic</msg>
+</logentry>
+<logentry
+   revision="29481">
+<author>ak</author>
+<date>2017-07-13T15:41:28.256377Z</date>
+<msg>-- myExplorer -- 
+1. Fixed GIF library crash issue</msg>
+</logentry>
+<logentry
+   revision="29461">
+<author>ak</author>
+<date>2017-07-11T14:51:28.646326Z</date>
+<msg>-- myExplorer --
+1. Fixed load hashtag bug</msg>
+</logentry>
+<logentry
+   revision="29439">
+<author>ak</author>
+<date>2017-07-11T03:53:39.348185Z</date>
+<msg>-- myExplorer --
+1. Resolved Redmine tickets</msg>
+</logentry>
+<logentry
+   revision="29410">
+<author>ak</author>
+<date>2017-07-07T17:19:31.343754Z</date>
+<msg>-- myExplorer --
+1. Fixed table view constraint issue</msg>
+</logentry>
+<logentry
+   revision="29409">
+<author>ak</author>
+<date>2017-07-07T17:06:51.775845Z</date>
+<msg>-- myExplorer --
+1. Fixed random crash issue</msg>
+</logentry>
+<logentry
+   revision="29408">
+<author>ak</author>
+<date>2017-07-07T16:11:22.951513Z</date>
+<msg>-- myExplorer --
+1. Fixed Redmine issues</msg>
+</logentry>
+<logentry
+   revision="29282">
+<author>ak</author>
+<date>2017-07-01T14:05:32.693406Z</date>
+<msg>-- myExplorer --
+1. Fixed Redmine issues</msg>
+</logentry>
+<logentry
+   revision="29151">
+<author>ak</author>
+<date>2017-06-19T14:24:39.637953Z</date>
+<msg>-- myExplorer --
+1. Fixed mapping issue</msg>
+</logentry>
+<logentry
+   revision="29150">
+<author>peikeng</author>
+<date>2017-06-19T13:17:55.176696Z</date>
+<msg>-- MyExplorer - Coding --
+1.Support slug</msg>
+</logentry>
+<logentry
+   revision="29148">
+<author>ak</author>
+<date>2017-06-19T12:27:18.595350Z</date>
+<msg>-- myExplorer --
+1. Fixed load more unblocking issue</msg>
+</logentry>
+<logentry
+   revision="29110">
+<author>peikeng</author>
+<date>2017-06-16T03:26:55.254905Z</date>
+<msg>-- MyExplorer - Coding --
+1. #11042 Investigate image cache issue</msg>
+</logentry>
+<logentry
+   revision="29109">
+<author>peikeng</author>
+<date>2017-06-16T03:26:18.197904Z</date>
+<msg>-- MyExplorer - Coding --
+1. #11042 Investigate image cache issue</msg>
+</logentry>
+<logentry
+   revision="29099">
+<author>peikeng</author>
+<date>2017-06-15T08:06:47.911539Z</date>
+<msg>-- MyExplorer - Coding --
+1. #11044 Feed - auto load the next page
+2. #11043 -  Logout and login, feed won't be load</msg>
+</logentry>
+<logentry
+   revision="29043">
+<author>peikeng</author>
+<date>2017-06-13T03:37:15.021395Z</date>
+<msg>-- MyExplorer - Coding --
+1. #11044 Feed - auto load the next page
+2. #11043 -  Logout and login, feed won't be load</msg>
+</logentry>
+<logentry
+   revision="28220">
+<author>peikeng</author>
+<date>2017-05-03T10:33:11.353937Z</date>
+<msg>-- MyExplorer - Coding --
+1. #10602 Rearrange the login layout.
+2. #10829 Weird text appear inside channel details</msg>
+</logentry>
+<logentry
+   revision="27845">
+<author>peikeng</author>
+<date>2017-04-12T14:10:00.239001Z</date>
+<msg>-- MyExplorer - Coding --
+1. #10365 App hang
+2. #10221 Crash issue due to memory</msg>
+</logentry>
+<logentry
+   revision="26817">
+<author>peikeng</author>
+<date>2017-03-06T02:51:06.596245Z</date>
+<msg>-- MyExplorer - Coding --
+1. support new login's UI</msg>
+</logentry>
+<logentry
+   revision="26467">
+<author>ak</author>
+<date>2017-02-15T09:45:18.912258Z</date>
+<msg>-- myExplorer --
+1. Fixed loading UI</msg>
+</logentry>
+<logentry
+   revision="26338">
+<author>ak</author>
+<date>2017-02-07T09:01:18.652095Z</date>
+<msg>-- Customer - PETRONAS - myExplorer --
+1. Fixed #9348</msg>
+</logentry>
+<logentry
+   revision="26337">
+<author>ak</author>
+<date>2017-02-07T08:33:17.642124Z</date>
+<msg>-- Customer - PETRONAS - myExplorer --
+1. Fixed cannot open URL with ?</msg>
+</logentry>
+<logentry
+   revision="26152">
+<author>peikeng</author>
+<date>2017-01-26T09:55:48.068985Z</date>
+<msg>-- MyExplorer - Coding --
+1. #8551 [iOS] Scrolling in Feeds &gt; By Channels unables user to click on the last 2 channels</msg>
+</logentry>
+<logentry
+   revision="26150">
+<author>peikeng</author>
+<date>2017-01-26T09:54:40.327039Z</date>
+<msg>-- MyExplorer - Coding --
+1. #8551 [iOS] Scrolling in Feeds &gt; By Channels unables user to click on the last 2 channels</msg>
+</logentry>
+<logentry
+   revision="25551">
+<author>peikeng</author>
+<date>2016-12-23T15:57:13.376117Z</date>
+<msg>-- MyExplorer - Coding --
+1. #8551 [iOS] Scrolling in Feeds &gt; By Channels unables user to click on the last 2 channels</msg>
+</logentry>
+<logentry
+   revision="25251">
+<author>ak</author>
+<date>2016-12-09T10:03:21.227777Z</date>
+<msg>-- myExplorer --
+1. Fixed crash issue when scrape URL is null</msg>
+</logentry>
+<logentry
+   revision="25124">
+<author>ak</author>
+<date>2016-12-02T04:44:28.595842Z</date>
+<msg>-- PETRONAS --
+1. Fixed wrong redirection when post creator and tagged user are same</msg>
+</logentry>
+<logentry
+   revision="24975">
+<author>peikeng</author>
+<date>2016-11-24T10:56:38.455125Z</date>
+<msg>-- MyExplorer - Coding --
+1. #7749 Fixed crash issues when tab on discover page.</msg>
+</logentry>
+<logentry
+   revision="24945">
+<author>peikeng</author>
+<date>2016-11-23T14:24:39.730417Z</date>
+<msg>-- MyExplorer - Coding --
+1. #7740 Fixed keyboard unable to show when dismiss popout view
+2. #7739 Fixed unable to display no result view
+3. #7716 Fixed crash when typing in description tv
+4  #3420  Fixed scrollable issue in my subscroption view
+5. Fixed crash when tap discover page for ios 8</msg>
+</logentry>
+<logentry
+   revision="24836">
+<author>peikeng</author>
+<date>2016-11-17T10:16:41.080777Z</date>
+<msg>-- MyExplorer - Coding --
+1. #7678 show error message when user not found in iOS 
+2. Fixed issue of unable to tag user in the middle of comment box
+3. Block user from editing comment when user not found, change to same approach as Android</msg>
+</logentry>
+<logentry
+   revision="24824">
+<author>peikeng</author>
+<date>2016-11-16T19:31:05.031002Z</date>
+<msg>-- MyExplorer - Coding --
+1. Edit comment &amp; comment not updated #6944
+2. Fixed crash when reload table after edit comment  #6944
+3. Fixed crash issues in fabric
+4. Fixed comment reappear when create comment after delete previous comment
+5. Fixed tagging sequence change when tag user infront of the existing tagged user</msg>
+</logentry>
+<logentry
+   revision="24787">
+<author>peikeng</author>
+<date>2016-11-15T18:33:23.260375Z</date>
+<msg>-- MyExplorer - Coding --
+ssue Fixed
+1. Display tag list suggestion view below the update view #6944
+2. Fixed crash issues in fabric</msg>
+</logentry>
+<logentry
+   revision="24760">
+<author>peikeng</author>
+<date>2016-11-14T15:38:19.457774Z</date>
+<msg>-- MyExplorer - Coding --
+1. [MySubscriptionChannelVC] Fixed crash when array is out of bounds</msg>
+</logentry>
+<logentry
+   revision="24759">
+<author>peikeng</author>
+<date>2016-11-14T15:23:43.552390Z</date>
+<msg>-- MyExplorer - Coding --
+1. Fixed tagging issue during edit #6944</msg>
+</logentry>
+<logentry
+   revision="24717">
+<author>peikeng</author>
+<date>2016-11-11T09:19:28.770947Z</date>
+<msg>-- MyExplorer - Coding --
+1. Fixed "All Channel" label display alignt to the image #6942</msg>
+</logentry>
+<logentry
+   revision="24715">
+<author>peikeng</author>
+<date>2016-11-11T07:59:23.119453Z</date>
+<msg>-- MyExplorer - Coding --
+1. Fixed  show pictureUrl in discover view #6942</msg>
+</logentry>
+<logentry
+   revision="24714">
+<author>peikeng</author>
+<date>2016-11-11T06:57:59.017239Z</date>
+<msg>-- MyExplorer - Coding --
+1. Fixed  show displayName in tagVC only #6944</msg>
+</logentry>
+<logentry
+   revision="24709">
+<author>peikeng</author>
+<date>2016-11-10T11:42:50.279748Z</date>
+<msg>-- MyExplorer - Coding --
+1. Fixed  show displayName in tagVC, highlighted tagged &amp; tag in the middle #6944</msg>
+</logentry>
+<logentry
+   revision="24661">
+<author>peikeng</author>
+<date>2016-11-08T07:50:35.129240Z</date>
+<msg>-- MyExplorer - Coding --
+1. Fixed  latest comment show at the bottom #3274</msg>
+</logentry>
+<logentry
+   revision="24637">
+<author>peikeng</author>
+<date>2016-11-07T08:30:47.348511Z</date>
+<msg>-- MyExplorer - Coding --
+1. Fixed  too large for preview image #7404</msg>
+</logentry>
+<logentry
+   revision="24635">
+<author>peikeng</author>
+<date>2016-11-07T07:52:37.828777Z</date>
+<msg>-- MyExplorer - Coding --
+1. Fixed  too large for preview image #7404</msg>
+</logentry>
+<logentry
+   revision="24606">
+<author>peikeng</author>
+<date>2016-11-04T08:26:14.330455Z</date>
+<msg>-- MyExplorer - Coding --
+1. Fixed  #6940</msg>
+</logentry>
+<logentry
+   revision="24594">
+<author>peikeng</author>
+<date>2016-11-03T11:37:20.530574Z</date>
+<msg>-- MyExplorer - Coding --
+1. Fixed #7376</msg>
+</logentry>
+<logentry
+   revision="24592">
+<author>peikeng</author>
+<date>2016-11-03T11:30:50.800149Z</date>
+<msg>-- MyExplorer - Coding --
+1. Fixed #7376</msg>
+</logentry>
+<logentry
+   revision="24577">
+<author>peikeng</author>
+<date>2016-11-02T16:19:59.808904Z</date>
+<msg>-- MyExplorer - Coding --
+1. Fixed #6942 #6944</msg>
+</logentry>
+<logentry
+   revision="24500">
+<author>peikeng</author>
+<date>2016-10-29T06:32:24.525791Z</date>
+<msg>-- MyExplorer - Coding --
+1. Fixed tagging issue in comment &amp; feed detail view</msg>
+</logentry>
+<logentry
+   revision="24495">
+<author>ak</author>
+<date>2016-10-28T15:13:37.316080Z</date>
+<msg>-- PETRONAS --
+1. Fix tagging issue in create post</msg>
+</logentry>
+<logentry
+   revision="24475">
+<author>peikeng</author>
+<date>2016-10-28T05:18:53.280627Z</date>
+<msg>-- MyExplorer - Coding --
+1. Issue of tagged user infront</msg>
+</logentry>
+<logentry
+   revision="24470">
+<author>peikeng</author>
+<date>2016-10-27T19:24:13.337628Z</date>
+<msg>-- MyExplorer - Coding --
+1. Issue of tagged user infront</msg>
+</logentry>
+<logentry
+   revision="24433">
+<author>peikeng</author>
+<date>2016-10-25T11:18:29.149937Z</date>
+<msg>-- MyExplorer - Coding --
+1. Fixed crash issue at iPad
+2. Fixed  font size become smaller when paste string #6944</msg>
+</logentry>
+<logentry
+   revision="24383">
+<author>peikeng</author>
+<date>2016-10-24T02:33:53.700589Z</date>
+<msg>-- MyExplorer - Coding --
+1. Fixed R3 issues</msg>
+</logentry>
+<logentry
+   revision="24382">
+<author>peikeng</author>
+<date>2016-10-24T02:33:04.987501Z</date>
+<msg>-- MyExplorer - Coding --
+1. Fixed R3 issues</msg>
+</logentry>
+<logentry
+   revision="24112">
+<author>peikeng</author>
+<date>2016-10-12T04:37:08.743349Z</date>
+<msg>-- MyExplorer - Coding --
+1. Adding tutorial screen for new path</msg>
+</logentry>
+<logentry
+   revision="24110">
+<author>peikeng</author>
+<date>2016-10-12T04:31:56.973055Z</date>
+<msg>-- MyExplorer - Coding --
+1. Remove tutorial screen for wrong path</msg>
+</logentry>
+<logentry
+   revision="24091">
+<author>peikeng</author>
+<date>2016-10-11T09:46:45.805285Z</date>
+<msg>-- MyExplorer - Coding --
+1. Upload missing file</msg>
+</logentry>
+<logentry
+   revision="24089">
+<author>peikeng</author>
+<date>2016-10-11T09:43:07.531174Z</date>
+<msg>-- MyExplorer - Coding --
+1. Upload missing file</msg>
+</logentry>
+<logentry
+   revision="23811">
+<author>peikeng</author>
+<date>2016-09-30T13:28:30.760956Z</date>
+<msg>-- MyExplorer - Coding --
+1. Fixed constraint issue</msg>
+</logentry>
+<logentry
+   revision="23771">
+<author>peikeng</author>
+<date>2016-09-29T17:55:32.232526Z</date>
+<msg>-- MyExplorer - Coding --
+1. Fixed constraint issue
+2. Remove unuse vc eg Passcode VC</msg>
+</logentry>
+<logentry
+   revision="23770">
+<author>peikeng</author>
+<date>2016-09-29T17:55:22.822188Z</date>
+<msg>-- MyExplorer - Coding --
+1. Fixed constraint issue
+2. Remove unuse vc eg Passcode VC</msg>
+</logentry>
+<logentry
+   revision="23769">
+<author>peikeng</author>
+<date>2016-09-29T17:54:04.173377Z</date>
+<msg>-- MyExplorer - Coding --
+1. Fixed constraint issue
+2. Remove unuse vc eg Passcode VC</msg>
+</logentry>
+<logentry
+   revision="23768">
+<author>peikeng</author>
+<date>2016-09-29T17:53:17.557850Z</date>
+<msg>-- MyExplorer - Coding --
+1. Fixed constraint issue
+2. Remove unuse vc eg Passcode VC</msg>
+</logentry>
+<logentry
+   revision="23688">
+<author>peikeng</author>
+<date>2016-09-27T08:07:03.441342Z</date>
+<msg>-- MyExplorer - Coding --
+1. Integrated issue of unable to type comment in comment view [#6722]
+2. Integrated issue of keyboard no respond [#6724]
+3. Integrated issue of cant display html in iOS 10 [#6489] 
+4. Fixed issue of post title different from what is created [#6686]</msg>
+</logentry>
+<logentry
+   revision="23647">
+<author>peikeng</author>
+<date>2016-09-23T16:36:53.215115Z</date>
+<msg>-- MyExplorer  - Coding --
+1. Fixed html height issue</msg>
+</logentry>
+<logentry
+   revision="23525">
+<author>peikeng</author>
+<date>2016-09-19T03:09:17.180538Z</date>
+<msg>-- MyExplorer  - Coding --
+1. Fixed edit comment &amp; tagging
+2. Integrate with bug fixed issues</msg>
+</logentry>
+<logentry
+   revision="23508">
+<author>peikeng</author>
+<date>2016-09-16T15:13:12.369952Z</date>
+<msg>-- MyExplorer  - Coding --
+1. Fixed edit comment &amp; tagging
+2. Integrate with bug fixed issues</msg>
+</logentry>
+<logentry
+   revision="23507">
+<author>peikeng</author>
+<date>2016-09-16T15:11:25.897509Z</date>
+<msg>-- MyExplorer  - Coding --
+1. Remove unuse data</msg>
+</logentry>
+<logentry
+   revision="22677">
+<author>peikeng</author>
+<date>2016-08-18T11:30:12.967443Z</date>
+<msg>-- MyExplorer  - Coding --
+1. Fixed bug #5671
+2. Disable scroll in discover page</msg>
+</logentry>
+<logentry
+   revision="22646">
+<author>peikeng</author>
+<date>2016-08-17T22:09:59.977648Z</date>
+<msg>-- MyExplorer - Coding --
+1. Fixed issue of tagged user when didselect the suggestion user tagged list during create post
+2. Support edit comment, issue of edit comment in server
+3. Fixed issue of regex multiple user tagged
+4. Fixed issue of highlighted link for tagged user
+5. Fixed issue of autolayout for different position suggestion user tagged list</msg>
+</logentry>
+<logentry
+   revision="22607">
+<author>peikeng</author>
+<date>2016-08-16T20:19:42.618603Z</date>
+<msg>-- MyExplorer - Coding --
+1. Support edit comment
+2. Support go navigate to other user profile &amp; own profile
+3. Support get my post &amp; tagged post
+4. Support create tagging in comment, support tagging in feed, feed detail, comment
+5. Issue of tagged user when didselect the suggestion user list during create post</msg>
+</logentry>
+<logentry
+   revision="22606">
+<author>peikeng</author>
+<date>2016-08-16T20:16:54.738793Z</date>
+<msg>-- MyExplorer - Coding --
+1. Remove unused resources</msg>
+</logentry>
+<logentry
+   revision="22564">
+<author>peikeng</author>
+<date>2016-08-16T03:02:56.949256Z</date>
+<msg>-- MyExplorer - Coding --
+1. Support edit comment &amp; change its UI
+2. Issue to test comment &amp; post with tag</msg>
+</logentry>
+<logentry
+   revision="22507">
+<author>peikeng</author>
+<date>2016-08-12T14:21:04.469563Z</date>
+<msg>-- MyExplorer - Coding --
+1. Fixed issue of unable to view image &amp; video due to spacing issues
+2. Support own profile VC &amp; others user profile [hide due to server issue]
+3. Support my post  [hide due to server issue]
+4. Support tagging pop up</msg>
+</logentry>
+<logentry
+   revision="22506">
+<author>peikeng</author>
+<date>2016-08-12T14:20:48.391788Z</date>
+<msg>-- MyExplorer - Coding --
+1. Fixed issue of unable to view image &amp; video due to spacing issues
+2. Support own profile VC &amp; others user profile [hide due to server issue]
+3. Support my post  [hide due to server issue]
+4. Support tagging pop up</msg>
+</logentry>
+<logentry
+   revision="22494">
+<author>peikeng</author>
+<date>2016-08-12T07:52:32.335838Z</date>
+<msg>-- MyExplorerBugFixed  - Coding --
+1. Fixed reload comment when swiping in Feed DetailVC
+2. Fixed image &amp; url spacing issue everywhere</msg>
+</logentry>
+<logentry
+   revision="21982">
+<author>peikeng</author>
+<date>2016-07-25T12:48:55.326567Z</date>
+<msg>-- MyExplorer - Coding --
+1.  Fixed inconsistency at feed page</msg>
+</logentry>
+<logentry
+   revision="21981">
+<author>peikeng</author>
+<date>2016-07-25T12:47:57.887597Z</date>
+<msg>-- MyExplorer - Coding --
+1.  Fixed inconsistency at feed page</msg>
+</logentry>
+<logentry
+   revision="21912">
+<author>peikeng</author>
+<date>2016-07-21T13:14:36.036971Z</date>
+<msg>-- MyExplorer - Coding --
+1.  Fixed page controller issue
+2. Fixed issue when scroll backward
+3. Fixed update footer view issue</msg>
+</logentry>
+<logentry
+   revision="21911">
+<author>peikeng</author>
+<date>2016-07-21T13:14:01.582523Z</date>
+<msg>-- MyExplorer - Coding --
+1.  Fixed page controller issue
+2. Fixed issue when scroll backward
+3. Fixed update footer view issue</msg>
+</logentry>
+<logentry
+   revision="21889">
+<author>peikeng</author>
+<date>2016-07-21T09:41:34.669587Z</date>
+<msg>-- MyExplorer - Coding --
+1.  add library</msg>
+</logentry>
+<logentry
+   revision="21887">
+<author>peikeng</author>
+<date>2016-07-21T09:20:52.606576Z</date>
+<msg>-- MyExplorer - Coding --
+1.  Modified enum for all channels &amp; all topics</msg>
+</logentry>
+<logentry
+   revision="21867">
+<author>peikeng</author>
+<date>2016-07-21T06:58:02.008167Z</date>
+<msg>-- MyExplorer - Coding --
+1.  Modified enum for all channels &amp; all topics</msg>
+</logentry>
+<logentry
+   revision="21847">
+<author>peikeng</author>
+<date>2016-07-20T14:35:30.208586Z</date>
+<msg>-- MyExplorer - Coding --
+1. Fixed display pagination issue
+2. Issue of page indicator when load more &amp; scroll backward</msg>
+</logentry>
+<logentry
+   revision="21837">
+<author>peikeng</author>
+<date>2016-07-20T09:42:02.833036Z</date>
+<msg>-- MyExplorer - Coding --
+1. Support latest discover page design
+2. Fixed crash issue when load more in discover view
+3. Pagination issue in discover page
+4. Fixed issue of comment not change when swipe view</msg>
+</logentry>
+<logentry
+   revision="21752">
+<author>peikeng</author>
+<date>2016-07-18T10:20:32.707546Z</date>
+<msg>-- MyExplorer - Coding --
+1. Support floating button to scroll to top
+2. Fixed  issue of unable to scroll to bottom when select photo
+3. Change sequence for contact us in more view
+4. Update 1st &amp; last page in updateview</msg>
+</logentry>
+<logentry
+   revision="21595">
+<author>peikeng</author>
+<date>2016-07-11T02:57:30.738438Z</date>
+<msg>-- MyExplorer - Coding --
+1. Fixed issue of load wrong page in favourite view
+2. Fixed issue of select wrong comment when reply in actionsheet in FeedDetailVC</msg>
+</logentry>
+<logentry
+   revision="21548">
+<author>peikeng</author>
+<date>2016-07-05T06:41:21.391726Z</date>
+<msg>-- MyExplorer - Coding --
+1. Fixed issue of load wrong page in favourite view
+2. Fixed issue of select wrong comment when reply in actionsheet in FeedDetailVC</msg>
+</logentry>
+<logentry
+   revision="21541">
+<author>peikeng</author>
+<date>2016-07-04T14:27:47.529468Z</date>
+<msg>-- MyExplorer - Coding --
+1. Fixed issue of delete button missing when upload single photo</msg>
+</logentry>
+<logentry
+   revision="21538">
+<author>peikeng</author>
+<date>2016-07-04T11:43:29.066336Z</date>
+<msg>-- MyExplorer - Coding --
+1. Fixed delete popup not consistent
+2. Fixed subscribe view unable to  load
+3. Fixed image crop if upload
+4. Fixed create button missing after create post
+5. Fixed hashtag not show</msg>
+</logentry>
+<logentry
+   revision="21510">
+<author>ak</author>
+<date>2016-07-01T16:52:57.413571Z</date>
+<msg>-- PETRONAS --
+1. Fixed the mapping issue</msg>
+</logentry>
+<logentry
+   revision="21509">
+<author>peikeng</author>
+<date>2016-07-01T16:02:16.951940Z</date>
+<msg>-- MyExplorer - Coding --
+1. Fixed feed view stuck when multitap of carbon kit
+2. Fixed unable to show like count in iphone 5
+3. Fixed back arrow not standardise</msg>
+</logentry>
+<logentry
+   revision="21508">
+<author>peikeng</author>
+<date>2016-07-01T15:52:52.233190Z</date>
+<msg>-- MyExplorer - Coding --
+1. Fixed feed view stuck when multitap of carbon kit
+2. Fixed unable to show like count in iphone 5
+3. Fixed back arrow not standardise</msg>
+</logentry>
+<logentry
+   revision="21449">
+<author>peikeng</author>
+<date>2016-06-30T19:04:35.552791Z</date>
+<msg>-- MyExplorer - Coding --
+1. Fixed header menu scrolling issue in channel &amp; topic</msg>
+</logentry>
+<logentry
+   revision="21441">
+<author>peikeng</author>
+<date>2016-06-30T14:34:39.666608Z</date>
+<msg>-- MyExplorer - Coding --
+1. Fixed load wrong feed page count
+2. Fixed add delete all in download fileVC
+3. Fixed description lenght issues</msg>
+</logentry>
+<logentry
+   revision="21395">
+<author>peikeng</author>
+<date>2016-06-29T13:56:19.202093Z</date>
+<msg>-- MyExplorer - Coding --
+1. Fixed comment issues
+2. Fixed feed description autolayout issues
+3. Fixed comment like count issues</msg>
+</logentry>
+<logentry
+   revision="21358">
+<author>peikeng</author>
+<date>2016-06-28T18:31:10.981505Z</date>
+<msg>-- MyExplorer - Coding --
+1. Fixed show tutorial screen after login &amp; show update screen after update
+2. Fixed popover view in ipad</msg>
+</logentry>
+<logentry
+   revision="21321">
+<author>peikeng</author>
+<date>2016-06-27T15:56:13.220671Z</date>
+<msg>-- MyExplorer - Coding --
+1. Support lastest UI for comments
+2. Update tutorial screen for latest update
+3. Fixed crash issue for load more comments
+4. Fixed comment screen height issues</msg>
+</logentry>
+<logentry
+   revision="21283">
+<author>peikeng</author>
+<date>2016-06-27T03:27:11.104967Z</date>
+<msg>-- MyExplorer - Coding --
+1. Fixed issue of unable to press unlike
+2. Fixed issue of unable to go to detail when view previous pressed</msg>
+</logentry>
+<logentry
+   revision="21139">
+<author>peikeng</author>
+<date>2016-06-21T04:47:44.301779Z</date>
+<msg>-- MyExplorer - Coding --
+1. Add pod library google analytic</msg>
+</logentry>
+<logentry
+   revision="21138">
+<author>peikeng</author>
+<date>2016-06-21T04:47:29.566461Z</date>
+<msg>-- MyExplorer - Coding --
+1. Add pod library google analytic</msg>
+</logentry>
+<logentry
+   revision="21137">
+<author>peikeng</author>
+<date>2016-06-21T04:47:03.158521Z</date>
+<msg>-- MyExplorer - Coding --
+1. Remove unuse library</msg>
+</logentry>
+<logentry
+   revision="21136">
+<author>peikeng</author>
+<date>2016-06-21T04:44:40.852539Z</date>
+<msg>-- MyExplorer - Coding --
+1. Add pod library google analytic</msg>
+</logentry>
+<logentry
+   revision="21135">
+<author>peikeng</author>
+<date>2016-06-21T04:44:24.960897Z</date>
+<msg>-- MyExplorer - Coding --
+1. Add pod library google analytic</msg>
+</logentry>
+<logentry
+   revision="21130">
+<author>peikeng</author>
+<date>2016-06-20T18:19:42.564671Z</date>
+<msg>-- MyExplorer - Coding --
+1. Fixed issue of unable to delete comment
+2. Fixed show subcomment
+3. Support hashtag API</msg>
+</logentry>
+<logentry
+   revision="21028">
+<author>peikeng</author>
+<date>2016-06-17T05:16:16.784621Z</date>
+<msg>-- MyExplorer - Coding --
+1. Fixed interface issue where dismiss from landscape video or photo 
+2. Support landscape mode in photo
+3. Support get &amp; create comment &amp; its sub comment API
+4. Support ui for coment detail
+5. Support Sub Comment UI
+6. Server issue of duplication subComment in a main comment
+7. Server issue of unable to delete comment</msg>
+</logentry>
+<logentry
+   revision="20910">
+<author>peikeng</author>
+<date>2016-06-14T11:05:16.356701Z</date>
+<msg>-- MyExplorer - Coding --
+1. Fixed issue of unable to add icon &amp; link together in TTTAttributeLabel
+2. Fixed issue of unable to detect text location in textview
+3. Support post like comment API
+4. Fixed landscape mode when detect rotation when play video</msg>
+</logentry>
+<logentry
+   revision="20874">
+<author>peikeng</author>
+<date>2016-06-13T11:27:03.951328Z</date>
+<msg>-- MyExplorer - Coding --
+1. Support HastTag at title, description &amp; comment
+2. Link hastTag to detailView
+3. Customize dateLabel in comment to support multifunction
+4. Issue of show icon in TTTAttributeLabel</msg>
+</logentry>
+<logentry
+   revision="20873">
+<author>peikeng</author>
+<date>2016-06-13T11:26:44.732209Z</date>
+<msg>-- MyExplorer - Coding --
+1. Support HastTag at title, description &amp; comment
+2. Link hastTag to detailView
+3. Customize dateLabel in comment to support multifunction
+4. Issue of show icon in TTTAttributeLabel</msg>
+</logentry>
+<logentry
+   revision="20803">
+<author>ak</author>
+<date>2016-06-09T09:20:24.109631Z</date>
+<msg>-- PETRONAS - myExplorer --
+1. Fixed searching bug with space and refine searching experience</msg>
+</logentry>
+<logentry
+   revision="20764">
+<author>peikeng</author>
+<date>2016-06-08T07:24:14.466389Z</date>
+<msg>-- MyExplorer - Coding --
+1. Fixed crash when click on the link in post html in feed detail vc
+2. Fixed crash when change tab in carbon kit</msg>
+</logentry>
+<logentry
+   revision="20736">
+<author>peikeng</author>
+<date>2016-06-07T11:40:18.693522Z</date>
+<msg>-- MyExplorer - Coding --
+1. Fixed crash during share post</msg>
+</logentry>
+<logentry
+   revision="20692">
+<author>peikeng</author>
+<date>2016-06-06T11:47:34.402318Z</date>
+<msg>-- MyExplorer - Coding --
+1. Remove unuse data</msg>
+</logentry>
+<logentry
+   revision="20691">
+<author>peikeng</author>
+<date>2016-06-06T11:47:00.353643Z</date>
+<msg>-- MyExplorer - Coding --
+1. Server site solved video issue, remove manual download from client site</msg>
+</logentry>
+<logentry
+   revision="20606">
+<author>peikeng</author>
+<date>2016-06-02T11:27:38.066498Z</date>
+<msg>-- MyExplorer - Coding --
+1. Fixed download video issue</msg>
+</logentry>
+<logentry
+   revision="20566">
+<author>peikeng</author>
+<date>2016-06-01T10:12:34.928285Z</date>
+<msg>-- MyExplorer - Coding --
+1. Display Video</msg>
+</logentry>
+<logentry
+   revision="20541">
+<author>ak</author>
+<date>2016-06-01T02:38:21.532188Z</date>
+<msg>-- PETRONAS - myExplorer --
+1. Fixed version checking flaw</msg>
+</logentry>
+<logentry
+   revision="20539">
+<author>peikeng</author>
+<date>2016-05-31T16:33:59.511068Z</date>
+<msg>-- MyExplorer - Coding --
+1. Support update screen
+2. Support more button in feed detail screen
+3. Fixed dynamic height issue in detail view
+4. Issue of loading video</msg>
+</logentry>
+<logentry
+   revision="20462">
+<author>ak</author>
+<date>2016-05-27T11:17:52.758396Z</date>
+<msg>-- PETRONAS - myExplorer --
+1. Fixed load from cache cannot load more issue</msg>
+</logentry>
+<logentry
+   revision="20458">
+<author>ak</author>
+<date>2016-05-27T09:03:15.617394Z</date>
+<msg>-- PETRONAS - myExplorer --
+1. Updated search result to use aspect fill</msg>
+</logentry>
+<logentry
+   revision="20450">
+<author>ak</author>
+<date>2016-05-27T07:10:57.336950Z</date>
+<msg>-- PETRONAS - myExplorer --
+1. Updated app icons</msg>
+</logentry>
+<logentry
+   revision="20439">
+<author>ak</author>
+<date>2016-05-26T15:02:14.133143Z</date>
+<msg>-- PETRONAS - myExplorer --
+1. Fixed download session issue</msg>
+</logentry>
+<logentry
+   revision="20438">
+<author>ak</author>
+<date>2016-05-26T14:54:50.623195Z</date>
+<msg>-- PETRONAS - myExplorer --
+1. Updated delete file popup wording</msg>
+</logentry>
+<logentry
+   revision="20405">
+<author>ak</author>
+<date>2016-05-26T04:27:00.315133Z</date>
+<msg>-- PETRONAS - myExplorer --
+1. Fixed load from cache issue
+2. Fixed channel pen doesn't appear for open channel</msg>
+</logentry>
+<logentry
+   revision="20388">
+<author>ak</author>
+<date>2016-05-25T08:31:12.121906Z</date>
+<msg>-- PETRONAS - myExplorer --
+1. Load from cache, after 15 minutes only trigger refresh
+2. Fixed back button missing issue
+3. Hide "change to draft" from open channel contributor</msg>
+</logentry>
+<logentry
+   revision="20371">
+<author>ak</author>
+<date>2016-05-24T12:00:19.226559Z</date>
+<msg>-- PETRONAS - myExplorer --
+1. Refinement</msg>
+</logentry>
+<logentry
+   revision="20348">
+<author>peikeng</author>
+<date>2016-05-23T12:12:59.427676Z</date>
+<msg>-- MyExplorer - Coding --
+1. Fixed issue of redundant dropdown icon
+2. Update pen icon
+3. Fixed issue of permission issue on discover page</msg>
+</logentry>
+<logentry
+   revision="20323">
+<author>peikeng</author>
+<date>2016-05-21T15:14:28.049829Z</date>
+<msg>-- MyExplorer - Coding --
+1. Fixed issue refresh data in discover view</msg>
+</logentry>
+<logentry
+   revision="20304">
+<author>peikeng</author>
+<date>2016-05-20T13:00:43.959403Z</date>
+<msg>-- MyExplorer - Coding --
+1. Fixed issue of load more in discover view
+2. Fixed issue change shimmering image in discover</msg>
+</logentry>
+<logentry
+   revision="20239">
+<author>ak</author>
+<date>2016-05-19T02:59:35.874813Z</date>
+<msg>-- PETRONAS - myExplorer --
+1. Remove unused file
+2. User short version during check version</msg>
+</logentry>
+<logentry
+   revision="20238">
+<author>peikeng</author>
+<date>2016-05-18T19:02:51.147547Z</date>
+<msg>-- MyExplorer - Coding --
+1. Add shimmering view to iPad</msg>
+</logentry>
+<logentry
+   revision="20237">
+<author>peikeng</author>
+<date>2016-05-18T19:01:13.524421Z</date>
+<msg>-- MyExplorer - Coding --
+1. Add shimmering view to iPad</msg>
+</logentry>
+<logentry
+   revision="20236">
+<author>peikeng</author>
+<date>2016-05-18T19:00:45.681206Z</date>
+<msg>-- MyExplorer - Coding --
+1. Add shimmering view to iPad</msg>
+</logentry>
+<logentry
+   revision="20235">
+<author>peikeng</author>
+<date>2016-05-18T18:47:37.025769Z</date>
+<msg>-- MyExplorer - Coding --
+1. Support tutorial screen
+2. Fixed tutorial screen with orientation &amp; iPad issue
+3. Fixed wrong label at more view
+4. Fixed issue of unable to email on @wanzul
+5. Fixed department width at feed view</msg>
+</logentry>
+<logentry
+   revision="20234">
+<author>peikeng</author>
+<date>2016-05-18T18:44:02.577929Z</date>
+<msg>-- MyExplorer - Coding --
+1. Remove unuse data</msg>
+</logentry>
+<logentry
+   revision="20202">
+<author>peikeng</author>
+<date>2016-05-17T13:00:48.263619Z</date>
+<msg>-- MyExplorer - Coding --
+1. Support Introduction View
+2. Support contributor name at all xib &amp; fixed autolayout issue
+3. Fixed crash when scroll</msg>
+</logentry>
+<logentry
+   revision="20181">
+<author>peikeng</author>
+<date>2016-05-17T03:10:41.715599Z</date>
+<msg>-- MyExplorer - Coding --
+1. Support dynamic height for image view
+2. Support animation images</msg>
+</logentry>
+<logentry
+   revision="20110">
+<author>ak</author>
+<date>2016-05-13T10:23:45.817755Z</date>
+<msg>-- PETRONAS - myExplorer --
+1. Hide more button if cannot delete</msg>
+</logentry>
+<logentry
+   revision="20107">
+<author>ak</author>
+<date>2016-05-13T10:06:13.728581Z</date>
+<msg>-- PETRONAS - myExplorer --
+1. Hide share button for More pages</msg>
+</logentry>
+<logentry
+   revision="20105">
+<author>peikeng</author>
+<date>2016-05-13T09:47:18.159399Z</date>
+<msg>-- MyExplorer - Coding --
+1. Fixed coming soon button position</msg>
+</logentry>
+<logentry
+   revision="20098">
+<author>ak</author>
+<date>2016-05-13T09:09:35.080514Z</date>
+<msg>-- PETRONAS - myExplorer --
+1. Fixed post detail swipe issue</msg>
+</logentry>
+<logentry
+   revision="20078">
+<author>peikeng</author>
+<date>2016-05-12T12:34:01.589271Z</date>
+<msg>-- MyExplorer - Coding --
+1. Fixed redmine issues</msg>
+</logentry>
+<logentry
+   revision="20053">
+<author>peikeng</author>
+<date>2016-05-11T12:18:27.069357Z</date>
+<msg>-- MyExplorer - Coding --
+1. Remove unuse file</msg>
+</logentry>
+<logentry
+   revision="20052">
+<author>peikeng</author>
+<date>2016-05-11T12:14:02.072100Z</date>
+<msg>-- MyExplorer - Coding --
+1. Support show popout in both feed &amp; download view
+2. Fixed issue of unable to delete donwloaded file
+3. Fixed issue of show loading animation in discover page
+4. Fixed animation issue when press gesture
+5. Issue of show both image &amp; text in whatsapp</msg>
+</logentry>
+<logentry
+   revision="19980">
+<author>ak</author>
+<date>2016-05-09T10:54:09.869825Z</date>
+<msg>-- PETRONAS - myExplorer --
+1. Refinement</msg>
+</logentry>
+<logentry
+   revision="19845">
+<author>ak</author>
+<date>2016-05-03T20:12:43.651701Z</date>
+<msg>-- PETRONAS - myExplorer --
+1. Refinement</msg>
+</logentry>
+<logentry
+   revision="19844">
+<author>ak</author>
+<date>2016-05-03T19:58:00.706613Z</date>
+<msg>-- PETRONAS - myExplorer --
+1. Refinement</msg>
+</logentry>
+<logentry
+   revision="19773">
+<author>ak</author>
+<date>2016-04-29T08:31:51.593483Z</date>
+<msg>-- PETRONAS - myExplorer --
+1. Refinement</msg>
+</logentry>
+<logentry
+   revision="19737">
+<author>ak</author>
+<date>2016-04-28T15:51:49.215583Z</date>
+<msg>-- PETRONAS - myExplorer --
+1. Refinement</msg>
+</logentry>
+<logentry
+   revision="19736">
+<author>ak</author>
+<date>2016-04-28T15:08:37.868735Z</date>
+<msg>-- PETRONAS - myExplorer --
+1. Refinement</msg>
+</logentry>
+<logentry
+   revision="19692">
+<author>ak</author>
+<date>2016-04-27T19:25:06.991327Z</date>
+<msg>-- PETRONAS - myExplore --
+1. Update feed loading UI</msg>
+</logentry>
+<logentry
+   revision="19691">
+<author>ak</author>
+<date>2016-04-27T18:22:11.027619Z</date>
+<msg>-- PETRONAS - myExplore - Coding  - iOS --
+1. Support open channel create flag
+2. Support unpublish post
+3. Added FB shimmer library</msg>
+</logentry>
+<logentry
+   revision="19632">
+<author>ak</author>
+<date>2016-04-26T11:58:01.726654Z</date>
+<msg>-- PETRONAS --
+1. Updated seen icon</msg>
+</logentry>
+<logentry
+   revision="19630">
+<author>ak</author>
+<date>2016-04-26T11:41:14.920393Z</date>
+<msg>-- PETRONAS --
+1. Support shimmer loading UI
+2. Update preview image</msg>
+</logentry>
+<logentry
+   revision="19572">
+<author>ak</author>
+<date>2016-04-25T05:53:38.070107Z</date>
+<msg>-- PETRONAS --
+1. Clean code</msg>
+</logentry>
+<logentry
+   revision="19571">
+<author>ak</author>
+<date>2016-04-25T05:53:03.398454Z</date>
+<msg>-- PETRONAS --
+1. Fixed description truncated at iPhone 5
+2. Prevent display of multiple user is logged out dialog</msg>
+</logentry>
+<logentry
+   revision="19567">
+<author>ak</author>
+<date>2016-04-25T05:26:44.646896Z</date>
+<msg>-- PETRONAS --
+1. Remove in app pass code screen
+2. Use original case instead of all capitalize
+3. Display using thumbnail instead of full size image</msg>
+</logentry>
+<logentry
+   revision="19424">
+<author>ak</author>
+<date>2016-04-19T08:18:23.169034Z</date>
+<msg>-- PETRONAS --
+1. Fixed download file issue</msg>
+</logentry>
+<logentry
+   revision="19418">
+<author>ak</author>
+<date>2016-04-19T06:04:04.912090Z</date>
+<msg>-- PETRONAS --
+1. Updated to V2 API</msg>
+</logentry>
+<logentry
+   revision="19409">
+<author>ak</author>
+<date>2016-04-18T14:54:40.569237Z</date>
+<msg>-- PETRONAS --
+1. Load post detail topics
+2. Remove sb when get post details</msg>
+</logentry>
+<logentry
+   revision="19404">
+<author>ak</author>
+<date>2016-04-18T12:03:27.780372Z</date>
+<msg>-- PETRONAS --
+1. Load post detail</msg>
+</logentry>
+<logentry
+   revision="19318">
+<author>ak</author>
+<date>2016-04-14T12:12:25.812788Z</date>
+<msg>-- PETRONAS - Coding - iOS --
+1. Refinement</msg>
+</logentry>
+<logentry
+   revision="19224">
+<author>ak</author>
+<date>2016-04-12T13:58:11.737190Z</date>
+<msg>-- PETRONAS - Coding - iOS --
+1. Continue spinning when view disappear</msg>
+</logentry>
+<logentry
+   revision="19202">
+<author>ak</author>
+<date>2016-04-12T08:43:54.368974Z</date>
+<msg>-- PETRONAS - Coding - iOS --
+1. Fixed subscribe button issue</msg>
+</logentry>
+<logentry
+   revision="19200">
+<author>ak</author>
+<date>2016-04-12T08:39:46.099672Z</date>
+<msg>-- PETRONAS - Coding - iOS --
+1. Fixed subscribe button issue</msg>
+</logentry>
+<logentry
+   revision="19180">
+<author>ak</author>
+<date>2016-04-12T02:39:57.474938Z</date>
+<msg>-- PETRONAS - Coding - iOS --
+1. Fixed upload image issue</msg>
+</logentry>
+<logentry
+   revision="19179">
+<author>ak</author>
+<date>2016-04-12T02:25:28.996748Z</date>
+<msg>-- PETRONAS - Coding - iOS --
+1. Fixed upload image issue</msg>
+</logentry>
+<logentry
+   revision="19129">
+<author>ak</author>
+<date>2016-04-08T11:44:36.531625Z</date>
+<msg>-- PETRONAS - Coding - iOS --
+1. Fixed share issue
+2. Block app when jailbroken and no system passcode
+3. iPad - create post with images issue</msg>
+</logentry>
+<logentry
+   revision="19036">
+<author>weijet</author>
+<date>2016-04-06T12:53:07.734420Z</date>
+<msg>- Fix camera not opening when create post
+- Added feature show only pdf file, else open menu</msg>
+</logentry>
+<logentry
+   revision="19032">
+<author>ak</author>
+<date>2016-04-06T11:49:34.901603Z</date>
+<msg>-- PETRONAS - Coding - iOS --
+1. Fixed iOS 8 autolayout issue</msg>
+</logentry>
+<logentry
+   revision="19030">
+<author>ak</author>
+<date>2016-04-06T11:43:21.795949Z</date>
+<msg>-- PETRONAS - Coding - iOS --
+1. Fixed iOS 8 autolayout issue</msg>
+</logentry>
+<logentry
+   revision="19029">
+<author>weijet</author>
+<date>2016-04-06T11:36:04.095727Z</date>
+<msg>- Update storyboard</msg>
+</logentry>
+<logentry
+   revision="19028">
+<author>weijet</author>
+<date>2016-04-06T11:35:51.986430Z</date>
+<msg>- Added ipad width fixed in base table cell
+- Hide notification view on / off in my channel
+- Fix not kick user out for expired session</msg>
+</logentry>
+<logentry
+   revision="18981">
+<author>ak</author>
+<date>2016-04-05T08:05:39.784583Z</date>
+<msg>-- PETRONAS - Coding - iOS --
+1. Clean code</msg>
+</logentry>
+<logentry
+   revision="18980">
+<author>ak</author>
+<date>2016-04-05T08:00:40.128128Z</date>
+<msg>-- PETRONAS - Coding - iOS --
+1. Updated info.plist</msg>
+</logentry>
+<logentry
+   revision="18978">
+<author>weijet</author>
+<date>2016-04-05T07:15:52.655428Z</date>
+<msg>Update main.storyboard</msg>
+</logentry>
+<logentry
+   revision="18977">
+<author>weijet</author>
+<date>2016-04-05T07:15:27.311703Z</date>
+<msg>- force logout user when session is invalid (error code 107)
+- update logic for self.descLabel.numberOfLines count to display 'See more' button
+- Added parameter '?sb=' for all web service api
+- Fix issue MyChannel still exist in setting page after switch user.</msg>
+</logentry>
+<logentry
+   revision="18913">
+<author>weijet</author>
+<date>2016-04-01T10:32:05.352389Z</date>
+<msg>- Update storyboard UI</msg>
+</logentry>
+<logentry
+   revision="18912">
+<author>weijet</author>
+<date>2016-04-01T10:31:18.353291Z</date>
+<msg>- Added parameter ?sb= in Login, Decryp api
+- Remove no-data petronas placeholder image 
+- Added header padding in table view for iPad version's feed controller
+- Expand table cell width in iPad version's feed controller 
+- Added label version number in setting controller</msg>
+</logentry>
+<logentry
+   revision="18883">
+<author>weijet</author>
+<date>2016-03-31T10:39:55.479509Z</date>
+<msg>- Update login top constant in ipad
+- Search immediately after switch tab
+- hide keyboard when scroll in search view controller</msg>
+</logentry>
+<logentry
+   revision="18881">
+<author>weijet</author>
+<date>2016-03-31T10:18:17.199591Z</date>
+<msg>- Update storyboard UI</msg>
+</logentry>
+<logentry
+   revision="18880">
+<author>weijet</author>
+<date>2016-03-31T10:17:23.980841Z</date>
+<msg>- Fix badge count not update
+- Add department name for Topic
+- Fix tag not remove in create post
+- Fix saved pdf name not correct
+- Direct show pdf in downloaded view controller
+- Added topic in feed
+- Fix login text field height
+- Fix mail to not opening in webview</msg>
+</logentry>
+<logentry
+   revision="18754">
+<author>peikeng</author>
+<date>2016-03-28T05:01:19.999936Z</date>
+<msg>-- MyExplorer - Coding --
+1.Fixed red mines issues</msg>
+</logentry>
+<logentry
+   revision="18635">
+<author>peikeng</author>
+<date>2016-03-23T07:58:34.678066Z</date>
+<msg>-- MyExplorer - Coding --
+1. Save decrypt to null when exit</msg>
+</logentry>
+<logentry
+   revision="18620">
+<author>peikeng</author>
+<date>2016-03-23T03:37:07.475039Z</date>
+<msg>-- MyExplorer - Coding --
+1. Remove unuse file</msg>
+</logentry>
+<logentry
+   revision="18619">
+<author>peikeng</author>
+<date>2016-03-23T03:34:27.646914Z</date>
+<msg>-- MyExplorer - Coding --
+1. Fixed redmine issues</msg>
+</logentry>
+<logentry
+   revision="18525">
+<author>peikeng</author>
+<date>2016-03-19T00:05:23.389747Z</date>
+<msg>-- MyExplorer - Coding --
+1. Update 1x image
+2. Fixed duplication noLabel
+3. Fit carbon view width
+4. Issue of selected carbon width when rotate</msg>
+</logentry>
+<logentry
+   revision="18492">
+<author>peikeng</author>
+<date>2016-03-18T07:39:44.860918Z</date>
+<msg>-- MyExplorer - Coding --
+1. Update 1x image
+2. Fixed duplication noLabel
+3. Fit carbon view width
+4. Issue of selected carbon width when rotate</msg>
+</logentry>
+<logentry
+   revision="18488">
+<author>peikeng</author>
+<date>2016-03-18T06:27:56.820972Z</date>
+<msg>-- MyExplorer - Coding --
+1. Add zip file</msg>
+</logentry>
+<logentry
+   revision="18468">
+<author>peikeng</author>
+<date>2016-03-17T14:22:17.268107Z</date>
+<msg>-- MyExplorer - Coding --
+1. Fixed red mines issues
+2. Fixed issue of position of noDataLabel &amp; noDataImage when rotation
+3. Fixed push notification issues</msg>
+</logentry>
+<logentry
+   revision="18435">
+<author>peikeng</author>
+<date>2016-03-17T06:09:56.300666Z</date>
+<msg>-- MyExplorer - Coding --
+1. Fixed display image with space
+2. Fixed changing words</msg>
+</logentry>
+<logentry
+   revision="18397">
+<author>peikeng</author>
+<date>2016-03-16T09:01:24.537663Z</date>
+<msg>-- MyExplorer - Coding --
+1. Support detect domain</msg>
+</logentry>
+<logentry
+   revision="18280">
+<author>peikeng</author>
+<date>2016-03-11T03:33:49.880591Z</date>
+<msg>-- MyExplorer - Coding --
+1. Fixed red mines issues
+2. Support back/ forward button at web view
+3. Fixed most of the UI issue at iPad
+4. Issue of 1st position of loading icon
+5. Unable to received push</msg>
+</logentry>
+<logentry
+   revision="18269">
+<author>peikeng</author>
+<date>2016-03-10T17:53:45.897001Z</date>
+<msg>-- MyExplorer - Coding --
+1. Fixed red mines issues
+2. Support back/ forward button at web view
+3. Fixed most of the UI issue at iPad
+4. Issue of 1st position of loading icon
+5. Unable to received push</msg>
+</logentry>
+<logentry
+   revision="18207">
+<author>peikeng</author>
+<date>2016-03-09T18:00:58.925073Z</date>
+<msg>-- MyExplorer - Coding --
+1. Fixed unable to share with iPad
+2. UI Issue at iPad</msg>
+</logentry>
+<logentry
+   revision="18172">
+<author>peikeng</author>
+<date>2016-03-08T17:09:11.647677Z</date>
+<msg>-- MyExplorer - Coding --
+1. Support channel with thumbnail url
+2. Support UI for iPad
+3. Issue of crash for some view in iPad</msg>
+</logentry>
+<logentry
+   revision="18142">
+<author>peikeng</author>
+<date>2016-03-07T15:30:34.964250Z</date>
+<msg>-- MyExplorer - Coding --
+1. Fixed issue of unable to show menu bar when back from search did select at search view
+2. Fixed issue of unable to show detail view in notification
+3. Issue of PN</msg>
+</logentry>
+<logentry
+   revision="18048">
+<author>peikeng</author>
+<date>2016-03-03T14:29:45.783324Z</date>
+<msg>-- MyExplorer - Coding --
+1. Support reusable view
+2. Remove all the warning
+3. Support client's review
+4. Issue of unable to received PN</msg>
+</logentry>
+<logentry
+   revision="18011">
+<author>peikeng</author>
+<date>2016-03-02T14:53:18.110076Z</date>
+<msg>-- MyExplorer - Coding --
+1. Fixed autolayout issues
+2. Cleaning code
+3. Fixed crash issue of image's width &amp; height = 0
+4. Fixed crash in feed detail when swipe left &amp; right
+5. Support fabric</msg>
+</logentry>
+<logentry
+   revision="18005">
+<author>peikeng</author>
+<date>2016-03-02T09:45:42.972586Z</date>
+<msg>-- MyExplorer - Coding --
+1. Code cleaning</msg>
+</logentry>
+<logentry
+   revision="18003">
+<author>peikeng</author>
+<date>2016-03-02T08:39:39.268018Z</date>
+<msg>-- MyExplorer - Coding --
+1. Support crash report with Parse</msg>
+</logentry>
+<logentry
+   revision="18002">
+<author>peikeng</author>
+<date>2016-03-02T08:25:57.879372Z</date>
+<msg>-- MyExplorer - Coding --
+1. Remove crash report with Parse
+2. Support crash report with Fabric</msg>
+</logentry>
+<logentry
+   revision="18001">
+<author>peikeng</author>
+<date>2016-03-02T08:23:45.755218Z</date>
+<msg>-- MyExplorer - Coding --
+1. Remove crash report with Parse
+2. Support crash report with Fabric</msg>
+</logentry>
+<logentry
+   revision="17991">
+<author>peikeng</author>
+<date>2016-03-01T15:11:01.355026Z</date>
+<msg>-- MyExplorer - Coding --
+1. Support crash report with Parse
+2. Remove unuse data</msg>
+</logentry>
+<logentry
+   revision="17975">
+<author>peikeng</author>
+<date>2016-03-01T10:30:10.782538Z</date>
+<msg>-- MyExplorer - Coding --
+1. Fixed blink blink issue when did select channel
+2. Fixed search view missing when go to another tab
+3. Support crash report
+4. Support change wording</msg>
+</logentry>
+<logentry
+   revision="17973">
+<author>peikeng</author>
+<date>2016-03-01T10:25:49.666667Z</date>
+<msg>-- MyExplorer - Coding --
+1. Remove use icon</msg>
+</logentry>
+<logentry
+   revision="17891">
+<author>peikeng</author>
+<date>2016-02-25T20:49:10.001758Z</date>
+<msg>-- MyExplorer - Coding --
+1. Fixed download issue
+2. Fixed UI issues
+3. Update gap layout
+4. Support remove url when d desc is only url when create post
+5. Issue of share with whatsapp, service whatsapp not reachable
+6. Update view count
+7. Support delete post &amp; fixed issues of filter deleteable post</msg>
+</logentry>
+<logentry
+   revision="17839">
+<author>peikeng</author>
+<date>2016-02-24T16:32:12.917082Z</date>
+<msg>-- MyExplorer - Coding --
+1. Support swipe left /right for next post</msg>
+</logentry>
+<logentry
+   revision="17835">
+<author>peikeng</author>
+<date>2016-02-24T14:16:12.305495Z</date>
+<msg>-- MyExplorer - Coding --
+1. Support update view count &amp; check version API</msg>
+</logentry>
+<logentry
+   revision="17833">
+<author>peikeng</author>
+<date>2016-02-24T13:54:06.447041Z</date>
+<msg>-- MyExplorer - Coding --
+1. Support scrollable create post VC</msg>
+</logentry>
+<logentry
+   revision="17789">
+<author>peikeng</author>
+<date>2016-02-24T03:05:08.474104Z</date>
+<msg>-- MyExplorer - Coding --
+1.Support Download file in list view
+2. Issue of create post with scrollable height</msg>
+</logentry>
+<logentry
+   revision="17745">
+<author>peikeng</author>
+<date>2016-02-23T03:31:22.665451Z</date>
+<msg>-- MyExplorer - Coding --
+1. Fixed freeze when general thumbnail
+2. Rearrange social view</msg>
+</logentry>
+<logentry
+   revision="17743">
+<author>peikeng</author>
+<date>2016-02-22T15:53:31.318886Z</date>
+<msg>-- MyExplorer - Coding --
+1. Fixed table view freeze due to generate video thumbnail, download file, go back from webview
+2. Fixed issue of incorrect view count
+3. Fixed remove decrypt user when exit app
+4. Fixed logout after 15 mins
+5. Issue of bypass ssl</msg>
+</logentry>
+<logentry
+   revision="17730">
+<author>peikeng</author>
+<date>2016-02-22T11:04:35.731477Z</date>
+<msg>-- MyExplorer - Coding --
+1. Support share sourl url with email, sms  &amp; whatsapp
+2. Fixed logout after 15 minute
+3. Remove decrypt user when exit app</msg>
+</logentry>
+<logentry
+   revision="17703">
+<author>peikeng</author>
+<date>2016-02-19T23:20:41.650003Z</date>
+<msg>-- MyExplorer - Coding --
+1. Support file model, support download pdf, and share pdf
+2. Issue of generate pdf cover image
+3. Fixed client's review
+4. Issue of see more button
+5.Support reset password
+6.Fixed issue of customize passcode library</msg>
+</logentry>
+<logentry
+   revision="17535">
+<author>ak</author>
+<date>2016-02-17T01:57:13.165289Z</date>
+<msg>-- PETRONAS - myExplore - Coding - iOS --
+1. Fixed error mapping issue</msg>
+</logentry>
+<logentry
+   revision="17509">
+<author>ak</author>
+<date>2016-02-16T09:42:05.648412Z</date>
+<msg>-- PETRONAS - myExplore - Coding - iOS --
+1. Scrape URL with escaping &amp;
+2. Channel name in feed and feed detail is clickable
+3. Webview - support copy link and open in safari</msg>
+</logentry>
+<logentry
+   revision="17508">
+<author>peikeng</author>
+<date>2016-02-16T09:36:56.617103Z</date>
+<msg>-- MyExplorer - Coding --
+1. Support getPermissions API
+2. Fixed issue of unable to hide create button
+3. Update register device url</msg>
+</logentry>
+<logentry
+   revision="17477">
+<author>ak</author>
+<date>2016-02-15T10:35:23.531490Z</date>
+<msg>-- PETRONAS - myExplore - Coding - iOS --
+1. Display json if cannot deserialize error message
+2. Create post - try scraping when enter key is pressed
+3. Create post - scrape even without http</msg>
+</logentry>
+<logentry
+   revision="17476">
+<author>peikeng</author>
+<date>2016-02-15T09:49:38.626644Z</date>
+<msg>-- MyExplorer - Coding --
+1. Update library</msg>
+</logentry>
+<logentry
+   revision="17474">
+<author>peikeng</author>
+<date>2016-02-15T09:43:50.594425Z</date>
+<msg>-- MyExplorer - Coding --
+1. Update library</msg>
+</logentry>
+<logentry
+   revision="17473">
+<author>peikeng</author>
+<date>2016-02-15T09:43:13.250675Z</date>
+<msg>-- MyExplorer - Coding --
+1. Update library</msg>
+</logentry>
+<logentry
+   revision="17472">
+<author>peikeng</author>
+<date>2016-02-15T09:28:31.299903Z</date>
+<msg>-- MyExplorer - Coding --
+1. Update library</msg>
+</logentry>
+<logentry
+   revision="17471">
+<author>peikeng</author>
+<date>2016-02-15T09:27:16.050385Z</date>
+<msg>-- MyExplorer - Coding --
+1. Update library</msg>
+</logentry>
+<logentry
+   revision="17438">
+<author>peikeng</author>
+<date>2016-02-12T16:48:29.731447Z</date>
+<msg>-- MyExplorer - Coding --
+1. Fixed seeMoreButton y position issues
+2. Fixed some warning issues</msg>
+</logentry>
+<logentry
+   revision="17434">
+<author>peikeng</author>
+<date>2016-02-12T13:57:28.602286Z</date>
+<msg>-- MyExplorer - Coding --
+1. Fixed seeMoreButton y position issues
+2. Fixed some warning issues</msg>
+</logentry>
+<logentry
+   revision="17429">
+<author>peikeng</author>
+<date>2016-02-12T11:47:48.665027Z</date>
+<msg>-- MyExplorer - Coding --
+1. Fixed seeMoreButton y position issues
+2. Fixed some warning issues</msg>
+</logentry>
+<logentry
+   revision="17384">
+<author>peikeng</author>
+<date>2016-02-11T04:02:51.108433Z</date>
+<msg>-- MyExplorer - Coding --
+1. Fixed post image issues</msg>
+</logentry>
+<logentry
+   revision="17375">
+<author>peikeng</author>
+<date>2016-02-10T12:23:37.752575Z</date>
+<msg>-- MyExplorer - Coding --
+1.Post image issues
+2. Issue of unable to get NTLM when login VPN
+3. Support multiple select image</msg>
+</logentry>
+<logentry
+   revision="17358">
+<author>peikeng</author>
+<date>2016-02-05T18:45:43.100804Z</date>
+<msg>-- MyExplorer - Coding --
+1.Post image issues
+2. Issue of unable to get NTLM when login VPN
+3. Support checking for jailbreak devices</msg>
+</logentry>
+<logentry
+   revision="17349">
+<author>peikeng</author>
+<date>2016-02-05T14:50:27.099948Z</date>
+<msg>-- MyExplorer - Coding --
+1. Fixed issue of get my favourite API
+2. Issue of unable to get NTLM when login VPN
+3. Change layout at my Channel, support click to detail view at my channel, my channel subscribe, my topic subscribe
+4. Support post image API with status code 200 &amp; response "MyExplorerStartedService"
+5. Fixed issue of unable to click link in webview</msg>
+</logentry>
+<logentry
+   revision="17330">
+<author>peikeng</author>
+<date>2016-02-05T08:08:45.460152Z</date>
+<msg>-- MyExplorer - Coding --
+1. Support notification unread, decrypt  API
+2. Fixed issue of logout
+3. Issue of get my favourite API
+4. Issue of check tag in notification list
+5. Update notification API</msg>
+</logentry>
+<logentry
+   revision="17306">
+<author>peikeng</author>
+<date>2016-02-04T13:12:09.848394Z</date>
+<msg>-- MyExplorer - Coding --
+1. Support Multiple Image at Feed View
+2. Support logout, get my subscription, my channel, profile, notification API
+3. Issue of logout &amp; get my favourite API</msg>
+</logentry>
+<logentry
+   revision="17268">
+<author>peikeng</author>
+<date>2016-02-03T17:19:39.908478Z</date>
+<msg>-- MyExplorer - Coding --
+1. Fixed set timer to show passcode splashview
+2. Support link in the description &amp; clickable in feed view</msg>
+</logentry>
+<logentry
+   revision="17264">
+<author>peikeng</author>
+<date>2016-02-03T14:16:35.617400Z</date>
+<msg>-- MyExplorer - Coding --
+1. Fixed set timer to show passcode splashview
+2. Support link in the description &amp; clickable in feed view</msg>
+</logentry>
+<logentry
+   revision="17243">
+<author>peikeng</author>
+<date>2016-02-03T02:54:53.256412Z</date>
+<msg>-- MyExplorer - Coding --
+1. Fixed set timer to show passcode splashview
+2. Support link in the description &amp; clickable in feed view</msg>
+</logentry>
+<logentry
+   revision="17203">
+<author>peikeng</author>
+<date>2016-02-02T07:42:06.306496Z</date>
+<msg>-- MyExplorer - Coding --
+1. Issue of unable to detect the NTLM authentication problem
+2. Fixed only able to show web view first time in FeedDetailVC
+3. Fixed unable to send comment
+4. Set petronas as a default domain when login
+5. Set timer to show passcode splashview</msg>
+</logentry>
+<logentry
+   revision="17149">
+<author>peikeng</author>
+<date>2016-01-29T14:56:23.650158Z</date>
+<msg>-- MyExplorer - Coding --
+1. Issue of unable to map with getApplication APIs
+2. Fixed issue of unable to hide navigation bar in topic detail</msg>
+</logentry>
+<logentry
+   revision="17095">
+<author>peikeng</author>
+<date>2016-01-28T12:28:43.987268Z</date>
+<msg>-- MyExplorer - Coding --
+1. Issue of unable to map with getApplication APIs
+2. Fixed issue of unable to hide navigation bar in topic detail</msg>
+</logentry>
+<logentry
+   revision="17070">
+<author>peikeng</author>
+<date>2016-01-28T04:58:43.783684Z</date>
+<msg>-- MyExplorer - Coding --
+1. Fixed Issue of unable to create post
+2. Support get topic's posts, create post scape API</msg>
+</logentry>
+<logentry
+   revision="17063">
+<author>peikeng</author>
+<date>2016-01-28T03:16:19.319021Z</date>
+<msg>-- MyExplorer - Coding --
+1. Support Create and Delete Post API
+2. Crash issue when create or delete API called</msg>
+</logentry>
+<logentry
+   revision="17017">
+<author>peikeng</author>
+<date>2016-01-26T10:11:16.773118Z</date>
+<msg>-- MyExplorer - Coding --
+1.  Support Post, Delete Comment, NotificationOn, Off, API</msg>
+</logentry>
+<logentry
+   revision="17016">
+<author>peikeng</author>
+<date>2016-01-26T10:09:56.505952Z</date>
+<msg>-- MyExplorer - Coding --
+1.  Remove use VC</msg>
+</logentry>
+<logentry
+   revision="16985">
+<author>ak</author>
+<date>2016-01-23T09:22:54.483547Z</date>
+<msg>-- PETRONAS - Coding - iOS --
+1. Updated pod file</msg>
+</logentry>
+<logentry
+   revision="16979">
+<author>peikeng</author>
+<date>2016-01-22T17:27:35.380144Z</date>
+<msg>-- MyExplorer - Coding --
+1.  Fixed Issue for dynamic height for webview in header of feed detail</msg>
+</logentry>
+<logentry
+   revision="16976">
+<author>peikeng</author>
+<date>2016-01-22T15:41:13.863723Z</date>
+<msg>-- MyExplorer - Coding --
+1. Fixed issue of integrate timeAgo library
+2. Issue for dynamic height for webview in header of feed detail</msg>
+</logentry>
+<logentry
+   revision="16970">
+<author>peikeng</author>
+<date>2016-01-22T14:42:51.636548Z</date>
+<msg>-- MyExplorer - Coding --
+1. Fixed change getStart &amp; profile name
+2. Fixed go to home with hasChannelSubscription flag
+3. Fixed issue of unable to show comments</msg>
+</logentry>
+<logentry
+   revision="16959">
+<author>ak</author>
+<date>2016-01-22T12:48:15.228456Z</date>
+<msg>-- PETRONAS - Coding - iOS --
+1. Do not call API to refresh, use local cache</msg>
+</logentry>
+<logentry
+   revision="16956">
+<author>peikeng</author>
+<date>2016-01-22T12:20:14.582962Z</date>
+<msg>-- MyExplorer - Coding --
+1. Support Comment API</msg>
+</logentry>
+<logentry
+   revision="16937">
+<author>peikeng</author>
+<date>2016-01-22T03:05:28.542217Z</date>
+<msg>-- MyExplorer - Coding --
+1. Remove unsuse VC</msg>
+</logentry>
+<logentry
+   revision="16900">
+<author>peikeng</author>
+<date>2016-01-21T08:51:22.584125Z</date>
+<msg>-- MyExplorer - Coding --
+1. Remove unsuse VC</msg>
+</logentry>
+<logentry
+   revision="16899">
+<author>peikeng</author>
+<date>2016-01-21T08:51:00.881278Z</date>
+<msg>-- MyExplorer - Coding --
+1. Support my favourite post</msg>
+</logentry>
+<logentry
+   revision="16898">
+<author>peikeng</author>
+<date>2016-01-21T08:50:26.225471Z</date>
+<msg>-- MyExplorer - Coding --
+1. Support my favourite post</msg>
+</logentry>
+<logentry
+   revision="16870">
+<author>ak</author>
+<date>2016-01-20T14:52:13.251333Z</date>
+<msg>-- PETRONAS - Coding - iOS --
+1. Fixed passcode shall be deleted when access token not found</msg>
+</logentry>
+<logentry
+   revision="16859">
+<author>peikeng</author>
+<date>2016-01-20T08:02:25.168570Z</date>
+<msg>-- MyExplorer - Coding --
+1. Support autolayout &amp; function for scrape &amp; video type in feed</msg>
+</logentry>
+<logentry
+   revision="16858">
+<author>peikeng</author>
+<date>2016-01-20T07:44:31.720984Z</date>
+<msg>-- MyExplorer - Coding --
+1. Support autolayout &amp; function for scrape &amp; video type in feed</msg>
+</logentry>
+<logentry
+   revision="16854">
+<author>peikeng</author>
+<date>2016-01-20T04:09:15.134729Z</date>
+<msg>-- MyExplorer - Coding --
+1. Support open video url</msg>
+</logentry>
+<logentry
+   revision="16821">
+<author>weijet</author>
+<date>2016-01-19T04:42:40.554410Z</date>
+<msg>- Integrate my subscription notification button UI with function</msg>
+</logentry>
+<logentry
+   revision="16819">
+<author>peikeng</author>
+<date>2016-01-19T04:31:43.416723Z</date>
+<msg>-- MyExplorer - Coding --
+1. Support Video &amp; Scapes Model In Feed
+2. Refresh Subscribe VC &amp; reload Feed VC
+3. Support Channel Post Detail</msg>
+</logentry>
+<logentry
+   revision="16807">
+<author>peikeng</author>
+<date>2016-01-18T19:14:29.711330Z</date>
+<msg>-- MyExplorer - Coding --
+1. Integrate API to dummy data in search and notification view
+2. Fixed issue of unable to delete passcode when logout
+3. Change flow when logout to recreate passcode
+4. Integrate Get Channel API topSubscribeType
+5. Issue of suddenly unable to getFeeds with same account</msg>
+</logentry>
+<logentry
+   revision="16804">
+<author>peikeng</author>
+<date>2016-01-18T15:01:24.248397Z</date>
+<msg>-- MyExplorer - Coding --
+1. Update resources</msg>
+</logentry>
+<logentry
+   revision="16803">
+<author>peikeng</author>
+<date>2016-01-18T14:59:36.016305Z</date>
+<msg>-- MyExplorer - Coding --
+1. Update resources</msg>
+</logentry>
+<logentry
+   revision="16802">
+<author>peikeng</author>
+<date>2016-01-18T14:02:52.581029Z</date>
+<msg>-- MyExplorer - Coding --
+1. Support PostAPI, like, unlike, favourite &amp; unfavourite APIs
+2. Issue of double like</msg>
+</logentry>
+<logentry
+   revision="16786">
+<author>ak</author>
+<date>2016-01-18T10:38:48.586984Z</date>
+<msg>-- PETRONAS - OEMS - Coding --
+1. Error handling</msg>
+</logentry>
+<logentry
+   revision="16779">
+<author>peikeng</author>
+<date>2016-01-18T09:55:18.796039Z</date>
+<msg>-- MyExplorer - Coding --
+1. Mapping for postModel</msg>
+</logentry>
+<logentry
+   revision="16726">
+<author>peikeng</author>
+<date>2016-01-15T13:18:39.493093Z</date>
+<msg>-- MyExplorer - Coding --
+1. Fixed issue of unable to go to root view after logout successfully</msg>
+</logentry>
+<logentry
+   revision="16724">
+<author>weijet</author>
+<date>2016-01-15T12:51:28.529414Z</date>
+<msg>- Add add photo when create post
+- Update storyboard
+- Add black mask for SVProgressHUB</msg>
+</logentry>
+<logentry
+   revision="16723">
+<author>weijet</author>
+<date>2016-01-15T12:49:49.278246Z</date>
+<msg>- add needed resources file</msg>
+</logentry>
+<logentry
+   revision="16722">
+<author>peikeng</author>
+<date>2016-01-15T12:43:40.024687Z</date>
+<msg>-- MyExplorer - Coding --
+1. Support my subsciption selection</msg>
+</logentry>
+<logentry
+   revision="16719">
+<author>weijet</author>
+<date>2016-01-15T11:04:57.112516Z</date>
+<msg>- Update storyboard
+- Add delete mode for downloaded view controller</msg>
+</logentry>
+<logentry
+   revision="16718">
+<author>weijet</author>
+<date>2016-01-15T11:03:11.221213Z</date>
+<msg>add needed resources file</msg>
+</logentry>
+<logentry
+   revision="16717">
+<author>peikeng</author>
+<date>2016-01-15T11:01:58.205121Z</date>
+<msg>-- MyExplorer - Coding --
+1. Support domain API</msg>
+</logentry>
+<logentry
+   revision="16711">
+<author>weijet</author>
+<date>2016-01-15T09:44:39.579800Z</date>
+<msg>- Added fileLocalPath to core data, FileModel
+- Update downloaded controller UI
+- Save pdf file from web to local n display from core data
+- Added generateUniqueResourcesPath, randomStringWithLength to General helper</msg>
+</logentry>
+<logentry
+   revision="16710">
+<author>peikeng</author>
+<date>2016-01-15T09:29:26.008830Z</date>
+<msg>-- MyExplorer - Coding --
+1. Support integrate API to channel UI
+2. Fixed crash when did select the channel detail
+3. Support getLogin API</msg>
+</logentry>
+<logentry
+   revision="16709">
+<author>peikeng</author>
+<date>2016-01-15T09:28:42.540484Z</date>
+<msg>-- MyExplorer - Coding --
+1. Support integrate API to channel UI
+2. Fixed crash when did select the channel detail
+3. Support getLogin API</msg>
+</logentry>
+<logentry
+   revision="16692">
+<author>peikeng</author>
+<date>2016-01-15T04:20:39.266462Z</date>
+<msg>-- MyExplorer - Coding --
+1. Support core data to store file</msg>
+</logentry>
+<logentry
+   revision="16691">
+<author>peikeng</author>
+<date>2016-01-15T03:55:28.390992Z</date>
+<msg>-- MyExplorer - Coding --
+1. Support core data to store file</msg>
+</logentry>
+<logentry
+   revision="16669">
+<author>weijet</author>
+<date>2016-01-14T11:51:05.670099Z</date>
+<msg>- Add download demo pdf for feed details controller</msg>
+</logentry>
+<logentry
+   revision="16668">
+<author>weijet</author>
+<date>2016-01-14T11:50:19.108894Z</date>
+<msg>- Update downloade collection view cell, view layout, separator view</msg>
+</logentry>
+<logentry
+   revision="16666">
+<author>peikeng</author>
+<date>2016-01-14T11:43:38.230423Z</date>
+<msg>-- MyExplorer - Coding --
+1. Remove notificationListVC</msg>
+</logentry>
+<logentry
+   revision="16665">
+<author>peikeng</author>
+<date>2016-01-14T11:43:15.653021Z</date>
+<msg>-- MyExplorer - Coding --
+1. Fixed unable to navigate to detail notification view
+2. Support detail view for search</msg>
+</logentry>
+<logentry
+   revision="16663">
+<author>weijet</author>
+<date>2016-01-14T11:35:56.448326Z</date>
+<msg>- Add identifier for downloaded collection cell</msg>
+</logentry>
+<logentry
+   revision="16632">
+<author>peikeng</author>
+<date>2016-01-14T05:03:58.517763Z</date>
+<msg>-- MyExplorer - Coding --
+1. Support get Topic API, subscribe &amp; unsubscribe Channel &amp; Topic API</msg>
+</logentry>
+<logentry
+   revision="16624">
+<author>peikeng</author>
+<date>2016-01-14T03:02:40.699959Z</date>
+<msg>-- MyExplorer - Coding --
+1. Support login API</msg>
+</logentry>
+<logentry
+   revision="16585">
+<author>weijet</author>
+<date>2016-01-13T09:06:51.850965Z</date>
+<msg>- Update storyboard Main</msg>
+</logentry>
+<logentry
+   revision="16584">
+<author>weijet</author>
+<date>2016-01-13T09:03:12.366590Z</date>
+<msg>Added new VC for DownloadedFiles, More, MySubscriptions</msg>
+</logentry>
+<logentry
+   revision="16530">
+<author>peikeng</author>
+<date>2016-01-12T10:57:32.862821Z</date>
+<msg>-- MyExplorer - Coding --
+1. Support notification list</msg>
+</logentry>
+<logentry
+   revision="16520">
+<author>weijet</author>
+<date>2016-01-12T04:57:46.133827Z</date>
+<msg>- Integrate UI for MoreViewController in storyboard
+- Link channel to create post</msg>
+</logentry>
+<logentry
+   revision="16519">
+<author>weijet</author>
+<date>2016-01-12T04:56:07.430702Z</date>
+<msg>- Integrate Create Post Controller, Cell
+- Add new resources</msg>
+</logentry>
+<logentry
+   revision="16485">
+<author>weijet</author>
+<date>2016-01-11T03:23:56.614754Z</date>
+<msg>- Added controller for comment, channel, feed
+- Added library HPGrowingText, JCTagList
+- Added Model Comment
+- Update storyboard main, main2
+- Insert main color for constants
+- Modify carbonTab init style in base view to fix white spacing, added tableHeight, Viewheight const in related controller
+- Added delegate for FeedTableView to do hide navigation bar when scroll
+- Added delegate for FeedDetails for playMoviePlayer &amp; focus Comment textbox
+- Integrate function logic to FeedDetailsViewController, FeedHeaderView
+- Move discover to separate view, for handling first time login user</msg>
+</logentry>
+<logentry
+   revision="16416">
+<author>peikeng</author>
+<date>2016-01-07T10:35:39.266500Z</date>
+<msg>-- MyExplorer - Coding --
+1. Support passcode splash VC</msg>
+</logentry>
+<logentry
+   revision="16410">
+<author>peikeng</author>
+<date>2016-01-07T08:40:47.091174Z</date>
+<msg>-- MyExplorer - Coding --
+1. Support passcode splash VC</msg>
+</logentry>
+<logentry
+   revision="16396">
+<author>peikeng</author>
+<date>2016-01-07T04:11:49.990345Z</date>
+<msg>-- MyExplorer - Coding --
+1.Update pod file</msg>
+</logentry>
+<logentry
+   revision="16394">
+<author>peikeng</author>
+<date>2016-01-07T04:02:53.555459Z</date>
+<msg>-- MyExplorer - Coding --
+1. Support DiscoverVC</msg>
+</logentry>
+<logentry
+   revision="16393">
+<author>peikeng</author>
+<date>2016-01-07T03:58:47.337978Z</date>
+<msg>-- MyExplorer - Coding --
+1. Support DiscoverVC</msg>
+</logentry>
+<logentry
+   revision="16391">
+<author>peikeng</author>
+<date>2016-01-07T03:58:16.728753Z</date>
+<msg>-- MyExplorer - Coding --
+1. Support DiscoverVC</msg>
+</logentry>
+<logentry
+   revision="16390">
+<author>peikeng</author>
+<date>2016-01-07T03:57:54.510088Z</date>
+<msg>-- MyExplorer - Coding --
+1. Remove unuse view</msg>
+</logentry>
+<logentry
+   revision="16386">
+<author>peikeng</author>
+<date>2016-01-06T15:10:12.836866Z</date>
+<msg>-- MyExplorer - Coding --
+1. Suppot feed view's  carbon kit
+2. Customize PasscodeVC</msg>
+</logentry>
+<logentry
+   revision="16384">
+<author>weijet</author>
+<date>2016-01-06T14:16:02.449004Z</date>
+<msg>- Intergarte UI for Feed in Storyboard</msg>
+</logentry>
+<logentry
+   revision="16383">
+<author>weijet</author>
+<date>2016-01-06T14:14:51.292959Z</date>
+<msg>Update project file</msg>
+</logentry>
+<logentry
+   revision="16382">
+<author>weijet</author>
+<date>2016-01-06T14:14:41.074209Z</date>
+<msg>- Integrate CarbonKit delegate for FeedViewController
+- Update server enum for constants
+- Intergarte UI for Feed in Storyboard</msg>
+</logentry>
+<logentry
+   revision="16381">
+<author>weijet</author>
+<date>2016-01-06T14:13:34.808896Z</date>
+<msg>Update splash screen content json</msg>
+</logentry>
+<logentry
+   revision="16380">
+<author>weijet</author>
+<date>2016-01-06T14:13:05.090336Z</date>
+<msg>- Added suffixNumber for General Helper</msg>
+</logentry>
+<logentry
+   revision="16379">
+<author>weijet</author>
+<date>2016-01-06T14:12:36.778017Z</date>
+<msg>Integrate base table view from VAV</msg>
+</logentry>
+<logentry
+   revision="16378">
+<author>weijet</author>
+<date>2016-01-06T14:11:36.778299Z</date>
+<msg>- Added needed file for Feed, Social controller
+- Intergrate pull to refresh library
+- Added post model</msg>
+</logentry>
+<logentry
+   revision="16375">
+<author>peikeng</author>
+<date>2016-01-06T13:32:53.118259Z</date>
+<msg>-- MyExplorer - Coding --
+1. Support Passcode View</msg>
+</logentry>
+<logentry
+   revision="16359">
+<author>peikeng</author>
+<date>2016-01-06T08:36:31.821542Z</date>
+<msg>-- MyExplorer - Coding --
+1. Update View</msg>
+</logentry>
+<logentry
+   revision="16358">
+<author>peikeng</author>
+<date>2016-01-06T08:34:25.745031Z</date>
+<msg>-- MyExplorer - Coding --
+1. Update library</msg>
+</logentry>
+<logentry
+   revision="16356">
+<author>peikeng</author>
+<date>2016-01-06T08:28:55.905400Z</date>
+<msg>-- MyExplorer - Coding --
+1. Update View</msg>
+</logentry>
+<logentry
+   revision="16345">
+<author>peikeng</author>
+<date>2016-01-06T04:31:54.371928Z</date>
+<msg>-- MyExplorer - Coding --
+1. Update library</msg>
+</logentry>
+<logentry
+   revision="16344">
+<author>weijet</author>
+<date>2016-01-06T04:22:39.859750Z</date>
+<msg>- Update xcshemes</msg>
+</logentry>
+<logentry
+   revision="16342">
+<author>weijet</author>
+<date>2016-01-06T04:16:55.361545Z</date>
+<msg>Adding podfile</msg>
+</logentry>
+<logentry
+   revision="16341">
+<author>weijet</author>
+<date>2016-01-06T04:16:42.439753Z</date>
+<msg>Update project file</msg>
+</logentry>
+<logentry
+   revision="16340">
+<author>weijet</author>
+<date>2016-01-06T04:16:28.471092Z</date>
+<msg>Commit xcworkspace file</msg>
+</logentry>
+<logentry
+   revision="16339">
+<author>weijet</author>
+<date>2016-01-06T04:15:28.549601Z</date>
+<msg>Commit pod files</msg>
+</logentry>
+<logentry
+   revision="16335">
+<author>peikeng</author>
+<date>2016-01-06T03:37:46.717766Z</date>
+<msg>-- MyExplorer - Coding --
+1. Update library</msg>
+</logentry>
+<logentry
+   revision="16334">
+<author>peikeng</author>
+<date>2016-01-06T03:23:26.737049Z</date>
+<msg>-- MyExplorer - Coding --
+1. Update library</msg>
+</logentry>
+<logentry
+   revision="16327">
+<author>peikeng</author>
+<date>2016-01-05T17:42:24.986886Z</date>
+<msg>-- MyExplorer - Coding --
+1. Support Discover Screen</msg>
+</logentry>
+<logentry
+   revision="16316">
+<author>peikeng</author>
+<date>2016-01-05T10:27:03.672150Z</date>
+<msg>-- MyExplorer - Coding --
+1. Support Base UI Layout</msg>
+</logentry>
+<logentry
+   revision="16311">
+<author>peikeng</author>
+<date>2016-01-05T08:29:42.280703Z</date>
+<msg>-- MyExplorer - Coding --
+1. Update resources</msg>
+</logentry>
+<logentry
+   revision="16310">
+<author>peikeng</author>
+<date>2016-01-05T08:29:30.436953Z</date>
+<msg>-- MyExplorer - Coding --
+1. Update resources</msg>
+</logentry>
+<logentry
+   revision="16302">
+<author>peikeng</author>
+<date>2016-01-05T04:27:08.069457Z</date>
+<msg>-- MyExplorer - Coding --
+1. Support Basic VC</msg>
+</logentry>
+<logentry
+   revision="16301">
+<author>peikeng</author>
+<date>2016-01-05T04:26:57.819457Z</date>
+<msg>-- MyExplorer - Coding --
+1. Remove</msg>
+</logentry>
+<logentry
+   revision="16299">
+<author>peikeng</author>
+<date>2016-01-05T04:05:05.163105Z</date>
+<msg>-- MyExplorer - Coding --
+1. Support Basic VC</msg>
+</logentry>
+<logentry
+   revision="16298">
+<author>peikeng</author>
+<date>2016-01-05T04:01:38.413105Z</date>
+<msg>-- MyExplorer - Coding --
+1. Support Basic VC</msg>
+</logentry>
+<logentry
+   revision="16293">
+<author>peikeng</author>
+<date>2016-01-05T02:24:33.211070Z</date>
+<msg>-- MyExplorer - Coding --
+1. Support Basic VC</msg>
+</logentry>
+</log>
